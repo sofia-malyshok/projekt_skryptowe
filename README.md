@@ -134,7 +134,7 @@ Firstly in this method `body_frame ` is cleared, then `fetch_recipe` and `displa
 def save_recipe(self):
     ...
 ```
-This method is for saving choosen recipe in txt file. The data which is contains in `recipe` field is formating and writtem to txt file.
+This method is for saving choosen recipe in txt file. The data which is contains in `recipe` field is formating and writtem to txt file
 
 <br>
 

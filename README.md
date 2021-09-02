@@ -126,7 +126,7 @@ Al these elements are placed in `body_frame`, using `grid`
 def search_recipe(self, id):
     ...
 ```
-Firstly in this method `body_frame ` is cleared, then `fetch_recipe` and `display_recipe` methods are called. As a result detailed information about choosen recipe is displayed.
+Firstly in this method `body_frame ` is cleared, then `fetch_recipe` and `display_recipe` methods are called. As a result detailed information about choosen recipe is displayed
 
 <br>
 
